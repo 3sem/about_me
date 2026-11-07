@@ -1,0 +1,12 @@
+Наши совместные публикации:
+1. Tadevosyan G., Serpiva V., Fedoseev A., Khan R. A., Aschu D., Batool F., Efanov N., Mikhaylov A., Tsetserukou D. AttentionSwarm: Reinforcement Learning with Attention Control Barrier Function for Crazyflie Drones in Dynamic Environments. (IEEE International Conference on Robotics and Biomimetics, ROBIO 2025). doi:10.1109/ROBIO66223.2025.11377435.
+2. Pavel Konoplev, Artem Mikhaylov, Nikolay Efanov, Dmitry Kolomenskiy, Alexey A. Polilov, Evgeny Burnaev. Bumblebee flight stabilization using discrete control Lyapunov function-based controller in reinforcement learning environment, Communications in Nonlinear Science and Numerical Simulation, Volume 159, 2026, 109839, ISSN 1007-5704, https://doi.org/10.1016/j.cnsns.2026.109839.
+3. Коноплёв П.Г., Михайлов А.А., Ефанов Н.Н., Коломенский Д.С., Полилов А.А., Бурнаев Е.В. Стабилизация полета модели бионического микроБПЛА с дискретным управлением посредством адаптивного нелинейного контроллера // "Известия сельскохозяйственной науки Тавриды", № 46 (209) (2026), cc 134-141.
+4. Mikhaylov A., Konoplev P., Efanov N., Sorokin A., Burnaev E. RANGER: Retrieval Agent for Navigating Graphs with Semantic Evaluation Rewards. (препринт arXiv, 2026). arXiv:2610.28010.
+
+Наши доклады на конференциях:
+1. Konoplev P., Mikhaylov A., Efanov N. [et al.]. Bumblebee Flight Stabilization Using RL and a PD Controller : poster presentation // Nature-Inspired Intelligence in Flight (NIIF), Workshop of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). — 2025.
+2. Н. Н. Ефанов. Обучение с подкреплением в автоматизированной оптимизации программ компиляторами // AI Journey 2025 (AIJ).
+3. Tadevosyan G., Serpiva V., Fedoseev A., Khan R. A., Aschu D., Batool F., Efanov N., Mikhaylov A., Tsetserukou D. AttentionSwarm: Reinforcement Learning with Attention Control Barrier Function for Crazyflie Drones in Dynamic Environments. (IEEE International Conference on Robotics and Biomimetics, ROBIO 2025).
+4. П. Г. Коноплев и др. Стабилизация полета модели бионического микроБПЛА с дискретным управлением посредством адаптивного нелинейного контроллера // Международная научная конференция по результатам работы научной школы «Механико-бионические основы разработки почвообрабатывающих машин» АТА КФУ им. Вернадского, г. Симферополь, 12-14 мар. 2026.
+5. П. Г. Коноплев и др. XXVIII конференция молодых ученых с международным участием "Навигация и управление движением", г. Санкт-Петербург, 17-20 мар. 2026
